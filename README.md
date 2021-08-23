@@ -10,3 +10,4 @@
 - 📫 aaron.yor@gmail.com
 - 📞 +374 (98) 47-11-11
 - ⚡ Fun fact: I'm self-taught 😄😄😄
+- 🤝 Gitlab Acount: https://gitlab.com/aaron.yordanyan
