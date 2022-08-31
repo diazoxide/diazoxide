@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazoxide&&theme=tokyonight)
 
-- 🔭 I’m currently working on NovemBit
+- 🔭 I’m currently working on Easydmarc
 - 📫 aaron.yor@gmail.com
 - 📞 +374 (98) 47-11-11
 - 🤝 Gitlab Acount: https://gitlab.com/aaron.yordanyan
