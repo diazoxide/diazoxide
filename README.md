@@ -14,5 +14,5 @@
 - 📞 +374 (98) 47-11-11
 - 🤝 Gitlab Acount: https://gitlab.com/aaron.yordanyan
 
-<img width="538" height="290" alt="image" src="https://github.com/user-attachments/assets/6412a7ae-4a6b-4f6f-b2fb-db36fabed50e" />
+<img width="512" height="361" alt="image" src="https://github.com/user-attachments/assets/39ffd3e4-a474-4d7f-942f-95ad66c38a89" />
 
