@@ -13,6 +13,3 @@
 - 📫 aaron.yor@gmail.com
 - 📞 +374 (98) 47-11-11
 - 🤝 Gitlab Acount: https://gitlab.com/aaron.yordanyan
-
-<img width="513" height="318" alt="image" src="https://github.com/user-attachments/assets/0b329312-ad1d-4e00-a116-cdad56642ab2" />
-
